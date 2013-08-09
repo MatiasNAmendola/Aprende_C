@@ -19,6 +19,9 @@ a curses como una capa sobre la terminal, denominada ventana y sobre esta ventan
 colores y efectos de la terminal; esta ventana debe ser inicializada, al mismo tiempo que es un buffer
 y debe ser tratado como tal.
 
+En caso de no tener la librería, se puede descargar desde el siguiente enlace:
+ftp://invisible-island.net/ncurses
+
 ## Compilado y linkado ##
 
 Para compilar un programa que use esta biblioteca hay que incluir el fichero de cabecera ncurses.h
