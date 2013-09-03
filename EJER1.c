@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
- main()
+void main()
 {
 	int cont=0;
 	float n, total=0;
